@@ -10,4 +10,7 @@ members = [
     "crates/event_handler"
 ]
 
+[workspace.dependencies]
+serde = "1.0.147"
+
 [dependencies]
